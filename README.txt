@@ -18,5 +18,5 @@ Reference:
 
 
 To reset RTC Clock: 
-	./write_cmos 10 26 
-	./write_cmos 11 80 
+#	./write_cmos 10 26 
+	./write_cmos 11 6 
